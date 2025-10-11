@@ -224,7 +224,7 @@ button {
 .header_bg {
     width: 100%;
     float: left;
-    background: #1d1d1d
+    background: #1d1d1d;
     height: auto;
     background-size: 100%;
 }
@@ -1080,6 +1080,11 @@ textarea#comment.update_mail::placeholder {
 
 .icons_contact {
     padding: 20px;
+}
+
+.menu-class {
+    font-weight: 900;
+    font-size: 30px;
 }
 
 @media (max-width:500px) {
